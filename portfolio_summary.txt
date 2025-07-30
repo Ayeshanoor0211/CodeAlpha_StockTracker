@@ -1,0 +1,4 @@
+AAPL: 116 shares × $180 = $20880
+TSLA: 900 shares × $250 = $225000
+MSFT: 220 shares × $290 = $63800
+Total Investment: $309680
